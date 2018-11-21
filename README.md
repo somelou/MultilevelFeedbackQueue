@@ -12,8 +12,8 @@ https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation)
 
 *以下为原项目说明*
 因为不会再原项目基础上改...
-> 原项目地址: https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation
-> 原项目博客：https://blog.csdn.net/wuchangi/article/details/80432794
+> * 原项目地址: https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation 
+> * 原项目博客：https://blog.csdn.net/wuchangi/article/details/80432794
 
 ### 一、项目功能
 
