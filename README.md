@@ -1,5 +1,4 @@
 # MultilevelFeedbackQueue
-## MultilevelFeedbackQueueSimulation
 
 [![MultilevelFeedbackQueueSimulation](https://img.shields.io/badge/MultilevelFeedbackQueueSimulation-v1.1.0-brightgreen.svg)](
 https://github.com/Yuziquan/MultilevelFeedbackQueueSimulation)
